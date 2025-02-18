@@ -1,4 +1,4 @@
-# Text Review and Analysis Tool
+# Text Review and Analysis Tool using AI Agents
 
 This is a Streamlit-based application that uses Agentic AI to review and analyze input text using different criteria such as SEO, Legal, and Ethics. The program leverages multiple AI agents to analyze the text and aggregate the results into a final review.
 
